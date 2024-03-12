@@ -13,3 +13,7 @@ The Tactical Technologies Fire System is a fire system designed for Roblox games
 - CAD System to show active calls and call locations
 - Admin commands to start fires and stop fires
 - Pager system
+
+---
+
+Based off of the Redon Tech Fire System
